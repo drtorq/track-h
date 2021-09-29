@@ -4,3 +4,4 @@ added another line to file 4.
 this is a new line in file 4 for a pull request.
 Added a fifth line to file 4.
 Added a sixth line to file 4.
+Added 7th line to file 4.
